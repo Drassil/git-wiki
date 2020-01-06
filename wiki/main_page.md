@@ -16,6 +16,12 @@ Just create/edit _config.yml in your repository and put this config inside:
 
 ```
 remote_theme: Drassil/git-wiki-theme@master
+defaults:
+ -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "git-wiki-default"
 ```
 
 ## Features 
