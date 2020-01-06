@@ -8,7 +8,17 @@ This is both documentation and [demo](Demo.md) of git-wiki.
 
 it's a **modular and full featured wiki** powered by git, github & [gitlab](https://gitlab.com/drassil/git-wiki/)  pages and pull-requests!
 
-It means: 
+## Getting started (WIP)
+
+The easier and faster way to use git-wiki is the "remote_theme" method.
+
+Just create/edit _config.yml in your repository and put this config inside:
+
+```
+remote_theme: Drassil/git-wiki-theme@master
+```
+
+## Features 
 
 * Improvements in the **cooperative** aspect: forks, pull-requests and roles.
 * You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
@@ -25,7 +35,7 @@ It means:
 * Integrated **Blogging** feature thanks to jekyll!
 * You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader
 
-You can fork/copy the master branch now and start your wiki in just 1 minute*!
+You can use it with jekyll ["remote_theme"](https://github.com/benbalter/jekyll-remote-theme) feature or fork/copy the master branch now and start your wiki in just 1 minute*.
 
 Git-wiki can be used as [theme for jekyll](https://jekyll-themes.com/git-wiki/)
 
