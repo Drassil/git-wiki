@@ -10,19 +10,14 @@ it's a **modular and full featured wiki** powered by git, github & [gitlab](http
 
 ## Getting started (WIP)
 
-The easier and faster way to use git-wiki is the "remote_theme" method.
+The easier and faster way to use git-wiki is the "skeleton" method.
 
-Just create/edit _config.yml in your repository and put this config inside:
+Simply clone [this repo](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy of 
+the skeleton project.
 
-```
-remote_theme: Drassil/git-wiki-theme@master
-defaults:
- -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "git-wiki-default"
-```
+Edit _config.yml and other pages as you need and then deploy it on github pages.
+
+For more installation options see the [Installation instructions](#installation-instructions)
 
 ## Features 
 
@@ -41,7 +36,7 @@ defaults:
 * Integrated **Blogging** feature thanks to jekyll!
 * You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader
 
-You can use it with jekyll ["remote_theme"](https://github.com/benbalter/jekyll-remote-theme) feature or fork/copy the master branch now and start your wiki in just 1 minute*.
+You can use it with jekyll ["remote_theme"](https://github.com/benbalter/jekyll-remote-theme) feature or fork/copy the master branch  and start your wiki in just 1 minute*.
 
 Git-wiki can be used as [theme for jekyll](https://jekyll-themes.com/git-wiki/)
 
@@ -64,11 +59,17 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 ## Installation instructions
 
-1. Fork or copy [this repository](https://github.com/drassil/git-wiki)
+### Remote theme method
 
-2. Use master branch of this repository to start instead of gh-pages that contains useless files for you! (you can delete that branch from your repository and re-create if you need)
+Fork, Clone [the skeleton repository](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy.
 
-3. push your changes in your repository, then configure the github pages in your repository settings
+Edit _config.yml and other pages as you need and then deploy it on github pages.
+
+### Direct installation method
+
+1. Fork, Clone [this repository](https://github.com/drassil/git-wiki-theme) or click on "Use this template"
+
+3. Edit _config.yml and push your changes in your repository, then configure the github pages in your repository settings
 
 4. Your wiki is ready!
 
