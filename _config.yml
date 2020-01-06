@@ -1,5 +1,6 @@
 # (string) Title of your wiki
 title: git-wiki
+remote_theme: Drassil/git-wiki-theme
 description: Git-Wiki demo and documentation
 show_downloads: true
 show_wiki_pages: true
@@ -12,7 +13,6 @@ show_wiki_posts_limit: 5
 logo_url: http://drassil.github.io/git-wiki/assets/images/1200px-Wikipedia-logo-v2.svg_.png
 google_analytics:
 git_branch: gh-pages
-theme: jekyll-theme-git-wiki
 use_github_wiki: false
 use_prose_io: true
 service: github
