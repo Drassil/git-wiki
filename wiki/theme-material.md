@@ -1,3 +1,7 @@
+---
+layout: "git-wiki-material"
+---
+
 # Theme: Git-Wiki Material
 
 
