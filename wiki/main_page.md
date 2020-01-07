@@ -1,5 +1,6 @@
 ---
-redirect_from: "/"
+redirect_from: /
+published: true
 ---
 
 # Welcome to git-wiki demo
@@ -12,10 +13,12 @@ it's a **modular and full featured wiki** powered by git, github & [gitlab](http
 
 The easier and faster way to use git-wiki is the "skeleton" method.
 
-Simply clone [this repo](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy of 
+1. Simply clone [this repo](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy of 
 the skeleton project.
 
-Edit _config.yml and other pages as you need and then deploy it on github pages.
+2. Edit _config.yml and other pages as you need and then deploy it on github pages.
+
+**Done**! now wait that your page will be published and you're ready **_to wiki_**!
 
 For more installation options see the [Installation instructions](#installation-instructions)
 
@@ -61,17 +64,31 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 ### Remote theme method
 
-Fork, Clone [the skeleton repository](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy.
+1. Fork, Clone [the skeleton repository](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy.
 
-Edit _config.yml and other pages as you need and then deploy it on github pages.
+2. Edit _config.yml and other pages as you need and then deploy it on github pages.
+
+**Description**: This method will allow you to create a wiki based on our skeleton repository and that extends git-wiki-theme. 
+
+**Direct installation comparison**:
+**pros**: This will allow you to avoid upgrading process pulling files from git-wiki-theme and eventually merge them.
+**cons**: To edit/fix git-wiki-theme core files you need to configure a second repository forked by git-wiki-theme repo. However, [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 ### Direct installation method
 
 1. Fork, Clone [this repository](https://github.com/drassil/git-wiki-theme) or click on "Use this template"
 
-3. Edit _config.yml and push your changes in your repository, then configure the github pages in your repository settings
+2. Edit _config.yml and push your changes in your repository, then configure the github pages in your repository settings
 
-4. Your wiki is ready!
+**Description**: This method will allow you to create a wiki using git-wiki-theme directly. You can create your theme from scratch. It's for advanced users and people who want directly collaborate to git-wiki-theme project.
+
+**Remote installation comparison**:
+**pros**: You can build your wiki and collaborate with git-wiki-theme project by PR at the same time.
+**cons**: Upgrading your wiki to the latest version need a merge with git-wiki-theme repo.
+
+### Notes:
+In both cases please is preferred to use **Fork** instead of **Template** and **Template** instead of **Clone** (Fork > Template > Clone).
+Fork will allow you to make pull request to/from original repository to keep your files updated (for skeleton too). Please, keep everything open and collaborative!
 
 ### Local development
 
