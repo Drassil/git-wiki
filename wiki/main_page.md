@@ -78,7 +78,7 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 ### Direct installation method
 
-1. Fork, Clone [this repository](https://github.com/drassil/git-wiki-theme) or click on "Use this template"
+1. Fork, Clone [git-wiki-theme repository](https://github.com/drassil/git-wiki-theme) or click on "Use this template"
 
 2. Edit _config.yml and push your changes in your repository, then configure the github pages in your repository settings
 
