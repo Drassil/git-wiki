@@ -71,7 +71,9 @@ You can even include the [official github wiki](https://help.github.com/articles
 **Description**: This method will allow you to create a wiki based on our skeleton repository and that extends git-wiki-theme. 
 
 **Direct installation comparison**:
+
 **pros**: This will allow you to avoid upgrading process pulling files from git-wiki-theme and eventually merge them.
+
 **cons**: To edit/fix git-wiki-theme core files you need to configure a second repository forked by git-wiki-theme repo. However, [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 ### Direct installation method
@@ -83,8 +85,11 @@ You can even include the [official github wiki](https://help.github.com/articles
 **Description**: This method will allow you to create a wiki using git-wiki-theme directly. You can create your theme from scratch. It's for advanced users and people who want directly collaborate to git-wiki-theme project.
 
 **Remote installation comparison**:
+
 **pros**: You can build your wiki and collaborate with git-wiki-theme project by PR at the same time.
+
 **cons**: Upgrading your wiki to the latest version need a merge with git-wiki-theme repo.
+
 
 ### Notes:
 In both cases please is preferred to use **Fork** instead of **Template** and **Template** instead of **Clone** (Fork > Template > Clone).
