@@ -1,5 +1,6 @@
 ---
-redirect_from: "/"
+redirect_from: /
+published: true
 ---
 
 # Welcome to git-wiki demo
@@ -45,7 +46,7 @@ Git-wiki can be used as [theme for jekyll](https://jekyll-themes.com/git-wiki/)
 **Note:**
 You can even include the [official github wiki](https://help.github.com/articles/about-github-wikis/) as a submodule and enable the option in our conf file to use github wiki pages in git-wiki system, but it's an experimental feature and it implies less advantages and greater disadvantages for now.
 
-**GITLAB PORTING:** (https://gitlab.com/drassil/git-wiki/) 
+**GITLAB PORTING:** https://gitlab.com/drassil/git-wiki/
 
 ## Who is using git-wiki
 
