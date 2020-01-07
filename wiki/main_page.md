@@ -75,6 +75,8 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 **cons**: To edit/fix git-wiki-theme core files you need to configure a second repository forked by git-wiki-theme repo. However, [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
+**NOTE**: if you want to fork the skeleton from gitlab, you can use [this repo](https://gitlab.com/drassil/git-wiki-skeleton)
+
 ### Direct installation method
 
 1. Fork, Clone [git-wiki-theme repository](https://github.com/drassil/git-wiki-theme) or click on "Use this template"
