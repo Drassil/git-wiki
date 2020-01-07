@@ -13,6 +13,8 @@ it's a **modular and full featured wiki** powered by git, github & [gitlab](http
 
 The easier and faster way to use git-wiki is the "skeleton" method.
 
+**You don't need to install anything locally!**
+
 1. Simply fork/clone [skeleton repo](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy of the skeleton project.
 
 2. Edit _config.yml and other pages as you need and then deploy it on github pages.
