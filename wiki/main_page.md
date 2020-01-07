@@ -9,7 +9,7 @@ This is both documentation and [demo](Demo.md) of git-wiki.
 
 it's a **modular and full featured wiki** powered by git, github & [gitlab](https://gitlab.com/drassil/git-wiki/)  pages and pull-requests!
 
-## Getting started (WIP)
+## Getting started
 
 The easier and faster way to use git-wiki is the "skeleton" method.
 
