@@ -7,7 +7,7 @@ published: true
 
 This is both documentation and [demo](Demo.md) of git-wiki.
 
-it's a **modular and full featured wiki** powered by git, github & [gitlab](https://gitlab.com/drassil/git-wiki/)  pages and pull-requests!
+it's a **modular and full featured wiki** powered by git, github/gitlab pages and pull-requests!
 
 ## Getting started
 
@@ -17,7 +17,7 @@ The easier and faster way to use git-wiki is the "skeleton" method.
 
 1. Simply fork/clone [skeleton repo](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy of the skeleton project.
 
-2. Edit _config.yml and other pages as you need and then deploy it on github pages.
+2. Edit _config.yml and other pages as you need and then deploy it on github/gitlab pages.
 
 **Done**! now wait that your page will be published and you're ready **_to wiki_**!
 
@@ -28,7 +28,7 @@ For more installation options see the [Installation instructions](#installation-
 * Improvements in the **cooperative** aspect: forks, pull-requests and roles.
 * You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
 * **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to Github Pages and Jekyll Server Side Generation process!
+* **Blazing fast** and free thankfully to Github/Gitlab Pages and Jekyll Server Side Generation process!
 * **Markdown and html** mixed together!
 * **Multiple free search engines!** on a static site!
 * **History, revision comparison** and everything you need from a wiki platform.
@@ -44,12 +44,10 @@ You can use it with jekyll ["remote_theme"](https://github.com/benbalter/jekyll-
 
 Git-wiki can be used as [theme for jekyll](https://jekyll-themes.com/git-wiki/)
 
- *Github pages takes about 10 minutes to show up the first time you configure it
+ *Github/Gitlab pages takes about 10 minutes to show up the first time you configure it
 
 **Note:**
 You can even include the [official github wiki](https://help.github.com/articles/about-github-wikis/) as a submodule and enable the option in our conf file to use github wiki pages in git-wiki system, but it's an experimental feature and it implies less advantages and greater disadvantages for now.
-
-**GITLAB PORTING:** (https://gitlab.com/drassil/git-wiki/) 
 
 ## Who is using git-wiki
 
@@ -67,7 +65,7 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 1. Fork, Clone [the skeleton repository](https://github.com/Drassil/git-wiki-skeleton) or click on "Use this template" button to create your copy.
 
-2. Edit _config.yml and other pages as you need and then deploy it on github pages.
+2. Edit _config.yml and other pages as you need and then deploy it on github/gitlab pages.
 
 **Description**: This method will allow you to create a wiki based on our skeleton repository and that extends git-wiki-theme. 
 
@@ -81,7 +79,7 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 1. Fork, Clone [git-wiki-theme repository](https://github.com/drassil/git-wiki-theme) or click on "Use this template"
 
-2. Edit _config.yml and push your changes in your repository, then configure the github pages in your repository settings
+2. Edit _config.yml and push your changes in your repository, then configure the github/gitlab pages in your repository settings
 
 **Description**: This method will allow you to create a wiki using git-wiki-theme directly. You can create your theme from scratch. It's for advanced users and people who want directly collaborate to git-wiki-theme project.
 
