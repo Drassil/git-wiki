@@ -77,7 +77,7 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 **GITLAB SUPPORT**: if you want to fork the skeleton from gitlab, you can use [this repo](https://gitlab.com/drassil/git-wiki-skeleton)
 
-**Without skeleton**: you can avoid to use the skeleton repository if you want start from scratch, however it's important to use at leaset the configuration variables needed by the theme: <https://github.com/Drassil/git-wiki-skeleton/blob/master/_config.yml>
+**Without skeleton**: you can avoid to use the skeleton repository if you want start from scratch, however it's important to use at leaset the configuration variables needed by the theme: [_config.yml](https://github.com/Drassil/git-wiki-skeleton/blob/master/_config.yml)
 
 ### Direct installation method
 
