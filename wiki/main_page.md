@@ -7,7 +7,7 @@ published: true
 
 This is both documentation and [demo](Demo.md) of git-wiki.
 
-it's a **modular and full featured wiki** powered by git, github/gitlab pages and pull-requests!
+it's a **modular and full featured wiki** powered by git, [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages and pull-requests!
 
 ## Getting started
 
