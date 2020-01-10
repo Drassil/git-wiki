@@ -71,9 +71,9 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 **Direct installation comparison**:
 
-**pros**: This will allow you to avoid upgrading process pulling files from git-wiki-theme and eventually merge them.
+ + **pros**: This will allow you to avoid upgrading process pulling files from git-wiki-theme and eventually merge them.
 
-**cons**: To edit/fix git-wiki-theme core files you need to configure a second repository forked by git-wiki-theme repo. However, [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+ - **cons**: To edit/fix git-wiki-theme core files you need to configure a second repository forked by git-wiki-theme repo. However, [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 
 **GITLAB SUPPORT**: if you want to fork the skeleton from gitlab, you can use [this repo](https://gitlab.com/drassil/git-wiki-skeleton)
 
@@ -89,9 +89,9 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 **Remote installation comparison**:
 
-**pros**: You can build your wiki and collaborate with git-wiki-theme project by PR at the same time.
+ + **pros**: You can build your wiki and collaborate with git-wiki-theme project by PR at the same time.
 
-**cons**: Upgrading your wiki to the latest version need a merge with git-wiki-theme repo.
+ - **cons**: Upgrading your wiki to the latest version need a merge with git-wiki-theme repo.
 
 
 ### Notes:
