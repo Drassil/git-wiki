@@ -1,5 +1,12 @@
 # Changelogs
 
+## 2.5.1
+
+* refactoring the project to be supported by [remote_theme](https://github.com/benbalter/jekyll-remote-theme). No you can avoid to import all sources files into your project
+* improved support for gitlab
+* improved support for docker
+* implemented static TOC (removed the javascript method) 
+
 ## 2.3.0
 
 Changed #toc div, now it's called #git-wiki-toc. You've to change it too if you are using a totally custom theme.
