@@ -38,7 +38,9 @@ For more installation options see the [Installation instructions](#installation-
 * **Component system with hooks** that allows you to totally customize your wiki UI. (see customization section below) 
 * Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below)
 * Integrated **Blogging** feature thanks to jekyll!
+* Automatic generated **TOC**
 * You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader
+
 
 You can use it with jekyll ["remote_theme"](https://github.com/benbalter/jekyll-remote-theme) feature or fork/copy the master branch  and start your wiki in just 1 minute*.
 
