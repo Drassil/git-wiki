@@ -55,7 +55,7 @@ You can even include the [official github wiki](https://help.github.com/articles
 
 [List of git-wiki installations](examples.md)
 
-[List of forked repository](https://github.com/Drassil/git-wiki/network/members)
+[List of forked repository](https://github.com/Drassil/git-wiki-theme/network/members)
 
 
 ### [Share your wiki with us!](examples) and keep the "Powered by Git-Wiki" footer link please. It will help both of us!
