@@ -128,7 +128,7 @@ Thank you!
 
 ## Components used
 
-- [jekyll-table-of-contents](https://github.com/ghiculescu/jekyll-table-of-contents)
+- [jekyll-toc](https://github.com/allejo/jekyll-toc)
 
 - [jQuery](https://jquery.com/) for DOM manipulation
 
