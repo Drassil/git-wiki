@@ -100,6 +100,7 @@ You can even include the [official github wiki](https://help.github.com/articles
 In both cases please is preferred to use **Fork** instead of **Template** and **Template** instead of **Clone** (Fork > Template > Clone).
 Fork will allow you to make pull request to/from original repository to keep your files updated (for skeleton too). Please, keep everything open and collaborative!
 
+
 ### Local development
 
 If you need to work on git-wiki locally before publish, then clone your wiki repo and follow this instructions 
