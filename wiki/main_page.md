@@ -3,11 +3,9 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to git-wiki demo!
+# Welcome to the Zenith Wiki!
 
-This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
-
-it's a **modular and full featured wiki** powered by git, [github](https://pages.github.com/)/[gitlab](https://about.gitlab.com/product/pages/) pages and pull-requests!
+Um teste feito com o template git-wiki que pode ser útil para organizar a documentação da equipe.
 
 ## Getting started
 
