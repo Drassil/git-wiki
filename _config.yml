@@ -1,9 +1,9 @@
 # (string) Title of your wiki
-title: git-wiki
+title: Zenith wiki
 demo_ver: 1.0.1
 remote_theme: Drassil/git-wiki-theme@865e801
-description: Git-Wiki demo and documentation
-show_downloads: true
+description: Zenith's Wiki
+show_downloads: false
 show_wiki_pages: true
 show_wiki_pages_limit: 10
 paginate: 5
@@ -11,7 +11,7 @@ paginate_path: "assets/blog/page:num"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
+logo_url: assets/images/Logo.jpg
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
@@ -37,19 +37,19 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-lux"
  -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "git-wiki-default"
+      layout: "git-wiki-bs-lux"
  -
     scope:
       path: ""
       type: "posts"
     values:
-      layout: "git-wiki-post"
+      layout: "git-wiki-bs-lux"
  -
     scope:
       path: assets/blog
@@ -71,6 +71,6 @@ plugins:
 # Check wiki documentation to learn how they work
 #
 
-inc_after_content: "drassil/comments.html"
+#inc_after_content: "drassil/comments.html"
 inc_after_head : "drassil/head.html"
 inc_before_page_list : "drassil/sidebar.html"
