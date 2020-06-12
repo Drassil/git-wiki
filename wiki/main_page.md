@@ -5,7 +5,7 @@ published: true
 
 # Welcome to the Zenith Wiki!
 
-Um teste feito com o template git-wiki que pode ser útil para organizar a documentação da equipe.
+Um **teste** feito com o template git-wiki que pode ser útil para organizar a **documentação da equipe**!
 
 ## Getting started
 
