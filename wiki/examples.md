@@ -26,3 +26,5 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [fanzoflucyworsley](https://fanzoflucyworsley.github.io/git-wiki/)
 
+* [Zenith Aerospace Wiki](https://zenitheesc.github.io/zenith-wiki/main_page)
+
