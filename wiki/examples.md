@@ -24,3 +24,4 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [Zenith Aerospace Wiki](https://zenitheesc.github.io/zenith-wiki/main_page)
 
+* [WikiUzed](http://wiki.uzed.com.br/main_page.html)
