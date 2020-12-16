@@ -49,7 +49,11 @@ inc_after_styles : "path/to/your/style.html"
 then in your _include folder you must add file defined above. It must be an html with
 the <link> elements inside.
   
-For example: <link rel="stylesheet" href="{{ 'assets/css/mystyle.css' | relative_url }}">
+For example: 
+
+```HTML
+<link rel="stylesheet" href="{{ 'assets/css/mystyle.css' | relative_url }}">
+```
   
 **NOTE**: as you can see we're using relative_url jekyll function allowing us to include the css file of our assets folder.
 
