@@ -3,7 +3,7 @@ redirect_from: /
 published: true
 ---
 
-# Welcome to git-wiki demo!
+# Welcome to git-wiki demo!aiueo
 
 This is both documentation and [demo](Demo.md) of [git-wiki theme](https://github.com/Drassil/git-wiki-theme) project.
 
