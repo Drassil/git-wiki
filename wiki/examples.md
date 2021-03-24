@@ -25,3 +25,5 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 * [Talon Wiki](https://talon.wiki/)
 
 * [Ornia](https://ornia.arcinas.info/)
+
+* [HPS](https://hps-ucsd-2020.github.io/wiki.html)
