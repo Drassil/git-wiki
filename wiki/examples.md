@@ -22,5 +22,5 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [WoWGaming](https://wowgaming.github.io/wiki-en)
 
-* [Zenith Aerospace Wiki](https://zenitheesc.github.io/zenith-wiki/main_page)
+* [Talon Wiki](https://talon.wiki/)
 
