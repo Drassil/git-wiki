@@ -1,5 +1,9 @@
 # Changelogs
 
+## 2.7.4
+
+* Dark mode implemented
+
 ## 2.5.1
 
 * refactoring the project to be supported by [remote_theme](https://github.com/benbalter/jekyll-remote-theme). No you can avoid to import all sources files into your project
