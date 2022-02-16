@@ -143,3 +143,4 @@ Thank you!
 - [jQuery](https://jquery.com/) for DOM manipulation
 
 [MIT LICENSE](LICENSE)
+
