@@ -11,7 +11,7 @@ paginate_path: "assets/blog/page:num"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
-logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
+logo_url: #assets/images/1200px-Wikipedia-logo-v2.svg_.png
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
