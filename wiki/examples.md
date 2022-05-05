@@ -6,8 +6,6 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [River Architect](https://riverarchitect.github.io/RA_wiki/)
 
-* [sgidev](http://www.sgidev.org/)
-
 * [HW-Core JS Class](https://hw-core.github.io/js-lib-class/)
 
 * [NestJS Yalc](https://www.drassil.org/nestjs-yalc/)
@@ -30,4 +28,3 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [Ornia](https://ornia.arcinas.info/)
 
-* [HPS](https://hps-ucsd-2020.github.io/wiki.html)
