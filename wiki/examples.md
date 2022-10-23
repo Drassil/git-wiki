@@ -28,3 +28,4 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [Ornia](https://ornia.arcinas.info/)
 
+* [Evospace Wiki](https://wavelet-noise.github.io/evospace-wiki/)
