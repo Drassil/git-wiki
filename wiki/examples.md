@@ -30,3 +30,5 @@ If you have built a wiki with git-wiki, please edit this file and add your wiki 
 
 * [Anoduck's Das Wiki](https://anoduck.github.io/wiki/)
 
+* [JaxPlays](https://jaxplays.com)
+
