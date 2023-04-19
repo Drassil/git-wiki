@@ -6,8 +6,8 @@ description: Git-Wiki demo and documentation
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
-paginate: 5
-paginate_path: "assets/blog/page:num"
+paginate: 2
+paginate_path: "blog/page:num"
 blog_feature: true
 show_wiki_posts: true
 show_wiki_posts_limit: 5
