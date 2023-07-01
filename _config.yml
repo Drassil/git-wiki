@@ -1,6 +1,6 @@
 # (string) Title of your wiki
 title: git-wiki
-demo_ver: 1.0.21
+demo_ver: 1.0.22
 remote_theme: Drassil/git-wiki-theme@master
 description: Git-Wiki demo and documentation
 show_downloads: true
